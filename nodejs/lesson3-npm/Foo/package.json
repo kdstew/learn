@@ -1,0 +1,16 @@
+{
+  "author": "Kevin Stewart <kevin@jackrussellsoftware.com>",
+  "name": "Foo",
+  "description": "This program is all about Foo.  Bar will come later...",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kdstew/foo.git"
+  },
+  "engines": {
+    "node": "~0.6.12"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
