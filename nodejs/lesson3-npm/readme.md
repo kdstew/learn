@@ -70,4 +70,4 @@ Install the `coffee-script` module as a global then do an `npm list` and put the
 
 Create a new project directory called "Foo", and `cd` into that directory.  Then run an `npm init` and fill in the blanks as best you can, and add that to your project.
 
-Check both in exercises and submit a pull request.
+Check in both exercises and submit a pull request.
