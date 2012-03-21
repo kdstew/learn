@@ -1,0 +1,5 @@
+task 'hw', 'print hello world', -> console.log 'hello world'
+
+task 'mkfile', 'make a file in the current dir', ->
+  fs = require 'fs'
+  fs.writeFileSync('answer.txt', 'This file was created with a cake command\n')
